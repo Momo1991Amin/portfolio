@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f62ae605-e4e5-4803-94d7-0d84302c54d6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1fmBCTGiNEWFoBmKWG1vrWrMZz4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\portfolio3\views" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f62ae605-e4e5-4803-94d7-0d84302c54d6" name="Default Changelist" comment="" />
+      <created>1596813259212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596813259212</updated>
+      <workItem from="1596813260796" duration="2110000" />
+      <workItem from="1596815655354" duration="2715000" />
+      <workItem from="1598372500493" duration="603000" />
+      <workItem from="1598378086604" duration="150000" />
+      <workItem from="1598380978814" duration="2038000" />
+      <workItem from="1598389026857" duration="46000" />
+      <workItem from="1601468279935" duration="10553000" />
+      <workItem from="1601573060492" duration="1961000" />
+      <workItem from="1601749465239" duration="3399000" />
+      <workItem from="1601802953040" duration="4393000" />
+      <workItem from="1601830014311" duration="5113000" />
+      <workItem from="1601842783189" duration="2613000" />
+      <workItem from="1602010562779" duration="4962000" />
+      <workItem from="1602356128290" duration="4321000" />
+      <workItem from="1602616006545" duration="1010000" />
+      <workItem from="1602618270691" duration="728000" />
+      <workItem from="1602620410124" duration="3036000" />
+      <workItem from="1602794141597" duration="1527000" />
+      <workItem from="1602876416636" duration="810000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="520" y="47" width="411" height="577" key="#com.intellij.ide.util.MemberChooser" timestamp="1602621462449">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="462" y="35" width="411" height="577" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1598372678130" />
+    <state x="520" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1440.920@0.0.1440.920" timestamp="1602621462449" />
+    <state x="523" y="142" key="#com.intellij.ide.util.MemberChooser/0.23.1440.833@0.23.1440.833" timestamp="1596813893321" />
+    <state x="443" y="217" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601750470747">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="443" y="217" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.920@0.0.1440.920" timestamp="1601750470747" />
+    <state x="474" y="150" key="FileChooserDialogImpl" timestamp="1602016002910">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="421" y="111" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1598389063608" />
+    <state x="474" y="150" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1602016002910" />
+    <state x="499" y="152" key="NewPhpClassDialog" timestamp="1596814836332">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="499" y="152" key="NewPhpClassDialog/0.23.1440.833@0.23.1440.833" timestamp="1596814836332" />
+    <state x="471" y="299" key="NewPhpFileDialog" timestamp="1598381870979">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="471" y="299" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1598381870979" />
+    <state x="530" y="389" key="NewPhpFileDialog/0.23.1440.833@0.23.1440.833" timestamp="1596816529219" />
+    <state x="375" y="219" width="672" height="678" key="search.everywhere.popup" timestamp="1601805001783">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="375" y="219" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1601805001783" />
+  </component>
+</project>
